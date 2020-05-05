@@ -13,6 +13,7 @@ Hardware and Software Requirements
      Arduino UNO Board
      Mobile Phone
      USB cable (Type B) Software Requirement
+    
   Software Requirement
      Arduino IDE
     
